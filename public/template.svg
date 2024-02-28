@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" width="1280" height="720">
+	<title>template</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 55px;fill: #ffffff;font-weight: 600;font-family: "SpartanMB-SemiBold", "Spartan MB SemBd" } 
+		.t1 { font-size: 55px;fill: #ffffff;font-weight: 200;font-family: "SpartanMB-ExtraLight", "Spartan MB ExtLt" } 
+		.t2 { font-size: 93px;fill: #ff0000;font-weight: 200;font-family: "SpartanMB-ExtraLight", "Spartan MB ExtLt" } 
+	</style>
+	<text id="Thomas Duong." style="transform: matrix(3.257,0,0,3.257,648.537,407.515)" >
+		<tspan x="-199.2" y="0" class="t0">Thomas</tspan><tspan  y="0" class="t1"> Duong</tspan><tspan  y="0" class="t2">.</tspan><tspan  y="0" class="t2">
+</tspan>
+	</text>
+</svg>
